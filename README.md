@@ -1,4 +1,4 @@
-# Chrome DevTools for Agents
+Google Cloud Platform (GCP)	Cloud Hosted Infrastructure, AI Inference and AI Services	United States, Belgium, Singapore	United States# Chrome DevTools for Agents
 
 [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)
 
