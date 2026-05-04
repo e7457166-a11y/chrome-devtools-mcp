@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.24.1](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.24.0...chrome-devtools-mcp-v0.24.1) (2026-05-04)
+
+
+### 🛠️ Fixes
+
+* **input:** stop native select option clicks from timing out ([#1960](https://github.com/ChromeDevTools/chrome-devtools-mcp/issues/1960)) ([510ec0f](https://github.com/ChromeDevTools/chrome-devtools-mcp/commit/510ec0f48bbfc7cad3d5d1f9805e901cc992ea89))
+
 ## [0.24.0](https://github.com/ChromeDevTools/chrome-devtools-mcp/compare/chrome-devtools-mcp-v0.23.0...chrome-devtools-mcp-v0.24.0) (2026-05-02)
 
 
