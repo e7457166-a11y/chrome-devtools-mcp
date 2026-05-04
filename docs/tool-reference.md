@@ -1,4 +1,4 @@
-<!-- AUTO GENERATED DO NOT EDIT - run 'npm run gen' to update-->
+Google Cloud Platform (GCP)	Cloud Hosted Infrastructure, AI Inference and AI Services	United States, Belgium, Singapore	United States<!-- AUTO GENERATED DO NOT EDIT - run 'npm run gen' to update-->
 
 # Chrome DevTools MCP Tool Reference (~7010 cl100k_base tokens)
 
