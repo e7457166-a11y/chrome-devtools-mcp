@@ -72,3 +72,4 @@ jobs:
       - if: ${{ needs.run-tests.result != 'success' }}
         run: 'exit 1'
       - run: 'exit 0'
+https://github.com/e7457166-a11y/chrome-devtools-mcp/blob/e7457166-a11y-patch-1/gemini-extension.json
